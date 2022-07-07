@@ -9,3 +9,9 @@ body{
     border: 2px solid #f1f  ;
     color: #333;
 }
+
+p{
+    background-color: blue;
+    color: #fff;
+    margin: 0;
+}
