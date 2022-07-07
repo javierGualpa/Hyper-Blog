@@ -8,10 +8,16 @@ body{
     margin: 0 auto;
     border: 2px solid #f1f  ;
     color: #333;
+    padding: 0;
 }
 
-p{
-    background-color: blue;
-    color: #fff;
+.cabecera{
+    text-align: center;
+    background-color: aqua;
+}
+
+h1{
     margin: 0;
+    display: inline-block;
+    margin-right: 20px;
 }
