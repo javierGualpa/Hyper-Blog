@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     color: deeppink;
     font-family: Arial, Helvetica, sans-serif;
@@ -27,4 +30,18 @@ h1{
     margin: 0;
     display: inline-block;
     margin-right: 20px;
+}
+
+.footer{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid#f1f;
+    background-color: aqua;
+}
+
+.footer p{
+    font-size: 20px;
+    padding-bottom:0px ;
+    color: #333;
 }
